@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=flhu
+Exec=/home/pi/flhu/headunit/media_ui/start_media_ui.sh
+Icon=/home/pi/flhu/headunit/media_ui/flhu.xpm
+Encoding=UTF-8
+Terminal=false
+Categories=None;
